@@ -1,6 +1,10 @@
 {
   "name": "treehash",
-  "version": "0.0.4",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/Picturelife/treehash.git"
+  },
+  "version": "0.0.5",
   "description": "SHA256 Tree Hash Algorithm",
   "main": "lib/treehash.js",
   "dependencies": {}
